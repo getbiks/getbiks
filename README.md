@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @getbiks
+- 👀 I’m a avid gamer and love to make games and apps
+- 🌱 I’m currently working with Swift developing iOS APPS
+- 📫 I am pretty active in twitter. Reach me @getbiks
